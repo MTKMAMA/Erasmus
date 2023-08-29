@@ -1,4 +1,4 @@
- public class Fibonacci {
+public class Fibonacci {
     public static void main(String[] args) {
         int n = 10; // Numero di elementi della sequenza da generare
 
