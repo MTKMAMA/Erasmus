@@ -21,6 +21,7 @@ public class Fibonacci {
         for (int i = 2; i <= n; i++) {
             fibonacciNumber = prev1 + prev2;
             prev1 = prev2;
+            
             prev2 = fibonacciNumber;
         }
 
